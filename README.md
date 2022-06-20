@@ -1,0 +1,1 @@
+# show_golden_saying
